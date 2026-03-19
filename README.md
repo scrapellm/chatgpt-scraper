@@ -1,5 +1,7 @@
 # ChatGPT Scraper API — ScrapeLLM
 
+[![ScrapeLLM ChatGPT Scraper](https://github.com/user-attachments/assets/0f285e0f-b592-476b-83dc-1283edc5de46)](https://scrapellm.com/scrapers/chatgpt)
+
 [![ScrapeLLM](https://img.shields.io/badge/ScrapeLLM-ChatGPT%20Scraper-7c3aed?style=for-the-badge)](https://scrapellm.com/scrapers/chatgpt)
 [![API Docs](https://img.shields.io/badge/API-Documentation-7c3aed?style=for-the-badge)](https://scrapellm.com/api)
 [![500 Free Credits](https://img.shields.io/badge/Free-500%20Credits-16a34a?style=for-the-badge)](https://scrapellm.com/signup)
